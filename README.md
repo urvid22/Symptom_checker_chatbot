@@ -2,6 +2,8 @@
 
 A Machine Learning-based healthcare assistant that predicts the most likely disease based on symptoms provided by the user. The chatbot provides disease predictions and precautionary advice through an interactive web interface built with Streamlit.
 
+![image](https://github.com/user-attachments/assets/fb0de240-772a-4c3f-97c4-2525f45e64b7)
+
 ---
 
 ## 🚀 Features
@@ -36,6 +38,4 @@ https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?r
 - **Output**: Predicted disease (classification)
 - **Evaluation**: Accuracy score, tested on holdout set
 - **Why RF?**: Ensemble-based, handles imbalanced features well, robust to overfitting
-
-![image](https://github.com/user-attachments/assets/9c8db0f3-abec-41b2-a5b5-b7c13d742104)
 
