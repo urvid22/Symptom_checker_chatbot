@@ -1,6 +1,6 @@
 # 🤖 Symptom Checker Chatbot
 
-A Machine Learning-based healthcare assistant that predicts the most likely disease based on symptoms provided by the user. The chatbot provides disease predictions and precautionary advice through an interactive web interface built with Streamlit.
+A Machine Learningn based healthcare assistant that predicts the most likely disease based on symptoms provided by the user. The chatbot provides disease predictions and precautionary advice through an interactive web interface built with Streamlit.
 
 ![image](https://github.com/user-attachments/assets/fb0de240-772a-4c3f-97c4-2525f45e64b7)
 
