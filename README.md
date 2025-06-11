@@ -6,11 +6,11 @@ A Machine Learning-based healthcare assistant that predicts the most likely dise
 
 ## 🚀 Features
 
-- ✅ Predicts disease from symptoms using a trained Random Forest Classifier
-- ✅ Displays precautionary steps associated with predicted disease
-- ✅ Easy-to-use web interface built with Streamlit
-- ✅ Reads and processes real-world healthcare datasets (symptom-disease and disease-precaution)
-- ✅ Designed for local use without paid APIs or internet dependencies
+-  Predicts disease from symptoms using a trained Random Forest Classifier
+-  Displays precautionary steps associated with predicted disease
+-  Easy-to-use web interface built with Streamlit
+-  Reads and processes real-world healthcare datasets (symptom-disease and disease-precaution)
+-  Designed for local use without paid APIs or internet dependencies
 
 ---
 
